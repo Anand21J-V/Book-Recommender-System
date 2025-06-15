@@ -2,8 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-Zipped/
-
+*zipped
+zipped/Books.csv.zip
+zipped/Ratings.csv.zip
+zipped/Users.csv.zip
 # C extensions
 *.so
 
